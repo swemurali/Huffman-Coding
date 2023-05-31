@@ -22,7 +22,10 @@ Calculate frequency of occurrence.
 Print the characters and its huffmancode.
 
 ## Program:
-
+```
+M.Suwetha
+212221230112
+```
 ``` 
 string = 'from robomaster import robot'
 class NodeTree(object):
